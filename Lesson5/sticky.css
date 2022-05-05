@@ -1,0 +1,14 @@
+body{
+    margin: 0 auto;
+    width: 70%;
+    height: 1000px;
+    
+}
+.sticky-position{
+    position: sticky;
+    top: 30px;
+    left: 30px;
+    border: 2px solid red;
+    padding: 20px;
+    z-index: 2;
+}

@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+* {
+    border: 5px solid black;
+}
+
+.title {
+    color: blue;
+}
+
+.uppercase h1 {
+    text-transform: capitalize;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    text-size-adjust: 20px;
+}
+
+a:visited {
+    text-decoration: underline;
+}
+
+#artile-title {
+    font-family: cursive;
+}

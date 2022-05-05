@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title{
+    background-color: rgb(255, 233, 233);
+    border-style: double none double none;
+    border-width: 10px;
+    color: rgb(124, 22, 22);
+    padding:70px 0px 70px 100px;
+    font-size: 80px;
+    font-weight: 500;
+}
+#subtitle{
+    font-size: 60px;
+}
+#note span{
+    color:red;
+}
+#note{
+    font-size: 40px;
+}
+.week-reading-list{
+    margin: 70px;
+    background-color: rgb(208, 218, 255);
+    border:10px solid blue;
+    padding:80px 0px 80px 40px;
+    font-size: 40px;
+    width: 70%;
+    color: blue;
+}
+ul{
+    padding-left: 100px;
+    color:black;
+}
+.optional {
+    color:red;
+}
+
